@@ -1,8 +1,8 @@
 {
-    "backpacks": true,
+    "backpacks": false,
     "cases": true,
-    "plateCarriers": true,
-    "pockets": true,
-    "rigs": true,
-    "secureContainers": true
+    "plateCarriers": false,
+    "pockets": false,
+    "rigs": false,
+    "secureContainers": false
 }
