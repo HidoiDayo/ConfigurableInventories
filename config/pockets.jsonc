@@ -1,5 +1,32 @@
 [
   {
+    "name": "Карманы TUE",
+    "itemID": "65e080be269cbd5c5005e529",
+    "removeFilters": false,
+    "grid": [
+      {
+        // Slot 1
+        "horizontal": 1,
+        "vertical": 1
+      },
+      // Slot 2
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 3
+      {
+        "horizontal": 1,
+        "vertical": 2
+      },
+      // Slot 4
+      {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    ]
+  },
+  {
     "name": "Карманы 1 на 4 со спец слотами",
     "itemID": "627a4e6b255f7527fb05a0f6",
     "removeFilters": false,
@@ -7,7 +34,7 @@
       {
         // Slot 1
         "horizontal": 1,
-        "vertical": 2
+        "vertical": 1
       },
       // Slot 2
       {
@@ -22,7 +49,7 @@
       // Slot 4
       {
         "horizontal": 1,
-        "vertical": 2
+        "vertical": 1
       }
     ]
   }
